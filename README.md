@@ -14,6 +14,7 @@ Domain:Retail sales
 ## Project Files
 **Jupyter notebook**
 https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb
+
 **Reports**
 File: https://drive.google.com/file/d/1_I2z2Vg9y9FUDYmLxoOUcLHSmr0i13Zs/view?usp=sharing
-## Dashboard Preview
+
